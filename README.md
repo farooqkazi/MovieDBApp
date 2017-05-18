@@ -3,5 +3,5 @@
 
 Using MovieDB API showcasing top movies in a Recycler View.
 MVP, Dagger, Butterknife methods implemented.
-Retrofit REST client for JSON parsing.
-RX Java 
+Retrofit & Rx JAVA used for REST client JSON parsing.
+
