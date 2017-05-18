@@ -1,6 +1,7 @@
 # Retrofit-Android-Example
-Retrofit Example with MVP &amp; Dagger
 
-Using IMDB API showcasing top movies in a Recycler View.
-MVP & Dagger methods implemented.
+
+Using MovieDB API showcasing top movies in a Recycler View.
+MVP, Dagger, Butterknife methods implemented.
 Retrofit REST client for JSON parsing.
+RX Java 
