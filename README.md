@@ -1,4 +1,4 @@
-# Retrofit-Android-Example
+# Movie List showcasing different Movies.
 
 Using MovieDB API showcasing top movies in a Recycler View.
 
